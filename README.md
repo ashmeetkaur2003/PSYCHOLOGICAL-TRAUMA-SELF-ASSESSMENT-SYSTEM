@@ -26,7 +26,8 @@ HOW TO RUN :
 8. Now open command prompt and set the path to the folder in which the file ( appp.py) is placed.
 9. Run the command : python appp.py
 10. The url will be there copy it > paste it > run it on the browser.
-    
+
+<img width="1885" height="955" alt="9" src="https://github.com/user-attachments/assets/b0cf59c1-cf9f-433d-8cee-63b2073ccea8" />
 <img width="1912" height="958" alt="1" src="https://github.com/user-attachments/assets/b216d801-c74d-48e0-8ee6-7366691db4f1" />
 <img width="1897" height="905" alt="2" src="https://github.com/user-attachments/assets/f9309921-d903-4666-9b2e-2ae07dda9a97" />
 <img width="1902" height="962" alt="3" src="https://github.com/user-attachments/assets/a5cec656-1b8b-4b4e-a234-f5723fa1a1f9" />
@@ -35,5 +36,5 @@ HOW TO RUN :
 <img width="1892" height="955" alt="6" src="https://github.com/user-attachments/assets/bb08c03d-75f2-4abc-b353-3c81866bc8b9" />
 <img width="1892" height="957" alt="7" src="https://github.com/user-attachments/assets/5b78091d-0da8-4cb3-9d3a-d85085ab839d" />
 <img width="1907" height="961" alt="8" src="https://github.com/user-attachments/assets/5ffe8c37-aab6-463a-8f50-e9ea97131de7" />
-<img width="1885" height="955" alt="9" src="https://github.com/user-attachments/assets/b0cf59c1-cf9f-433d-8cee-63b2073ccea8" />
+
 
